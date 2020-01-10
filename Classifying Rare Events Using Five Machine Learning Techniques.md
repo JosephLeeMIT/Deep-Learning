@@ -1,4 +1,6 @@
 # Classifying Rare Events Using Five Machine Learning Techniques
+Redcarpet::Render::HTML_TOC
+{:toc max_level=3 }
 
 ## Background
 A couple years ago, Harvard Business Review released an article with the following title [“Data Scientist: The Sexiest Job of the 21st Century.”](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) Ever since its release, Data Science or Statistics Departments become widely pursued by college students and, and Data Scientists (Nerds), for the first time, is referred to as being sexy.
