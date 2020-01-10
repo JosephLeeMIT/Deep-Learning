@@ -322,7 +322,8 @@ svm_training_error <- calc_error_rate(predicted.value=svm_best_train, true.value
 # test error
 svm_test_error <- calc_error_rate(predicted.value=svm_best_test, true.value=YTest)
 
-records[5,] <- c(svm_training_error,svm_test_error)```
+records[5,] <- c(svm_training_error,svm_test_error)
+```
 
 ### 4. Model Metrics
 We have constructed all ML models following model selection procedures and obtained their training and test errors. In this section, we are going to select the best model using some model metrics.
