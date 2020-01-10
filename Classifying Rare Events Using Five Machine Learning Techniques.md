@@ -79,3 +79,4 @@ Next, let’s explore the distribution of our outcome variables.
 plot(banking$y,main="Plot 1: Distribution of Dependent Variable")
 ```
 
+![Distribution of Dependent Variable0(https://miro.medium.com/max/1670/1*fkJ9tgTz2FMhsUOROmPoZg.png "DDV")
